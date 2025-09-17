@@ -56,7 +56,7 @@ $quiz = [
     [
         'pergunta' => 'Qual é o valor de 25 ÷ 5?',
         'opcoes' => ['3', '5', '7', '10', '8'],
-        'resposta_correta' => '18'
+        'resposta_correta' => '5'
     ],
     //Pergunta 5
     [
